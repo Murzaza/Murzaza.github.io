@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "New Year Goals"
+date:   2020-01-01 12:24:48 -0500
+categories: goals
+---
+I am mostly just writing this to list a couple of goals I have for the coming year. To somehow keep myself accountable.
+
+## 2020 Goals
+
+- Get better at Rust.
+- Finish up the Raspberry Pi projects (EmulatationStation, Plex Server).
+- Get some personal projects to a MVP state.
+- More goals to come.
