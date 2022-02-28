@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 ---
-[Download Resume](/pub-files/mirza-resume.pdf)
+[comment]: <>([Download Resume](/pub-files/mirza-resume.pdf))
 
 ### Senior Member of Technical Staff -- Oracle Cloud Infrastructure
 
