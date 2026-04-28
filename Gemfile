@@ -37,4 +37,4 @@ gem "base64", "~> 0.3.0"
 
 gem "bigdecimal", "~> 3.2"
 
-gem "erb", "~> 5.0"
+gem "erb", "~> 6.0"
